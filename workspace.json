@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 4,
+  "owner": "EthanThatOneKid",
+  "host": "github.com",
+  "repositoriesDirectory": "repos",
+  "workspacesDirectory": "repos",
+  "repositories": [
+    {
+      "name": "vivary",
+      "url": "https://github.com/vivary-dev/vivary.git"
+    }
+  ],
+  "workspaces": [
+    {
+      "name": "workspace-cli",
+      "url": "https://github.com/EthanThatOneKid/vivary-workspace.git"
+    }
+  ]
+}
