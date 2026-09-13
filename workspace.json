@@ -3,12 +3,17 @@
   "owner": "EthanThatOneKid",
   "host": "github.com",
   "repositoriesDirectory": "repos",
-  "workspacesDirectory": "repos",
   "repositories": [
+    "vivary",
+    ".github",
     {
-      "name": "vivary",
-      "url": "https://github.com/vivary-dev/vivary.git"
+      "name": "vivary-workbench-handoff",
+      "url": "https://github.com/vivary-dev/vivary-workbench-handoff.git"
+    },
+    {
+      "name": "Vivary-New",
+      "url": "https://github.com/vivary-dev/Vivary-New.git"
     }
-  ],
-  "workspaces": []
+  ]
 }
+
