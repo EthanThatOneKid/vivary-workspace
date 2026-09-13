@@ -1,8 +1,6 @@
 {
   "schemaVersion": 4,
   "owner": "vivary-dev",
-  "host": "github.com",
-  "repositoriesDirectory": "repos",
   "repositories": [
     "vivary",
     ".github",
