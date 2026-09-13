@@ -1,4 +1,4 @@
-# vivary-dev-workspace
+# vivary-workspace
 
 Workspace manifest for the `vivary-dev` org, rooted at `EthanThatOneKid/vivary-workspace`.
 
