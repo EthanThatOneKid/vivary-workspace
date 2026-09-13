@@ -10,10 +10,5 @@
       "url": "https://github.com/vivary-dev/vivary.git"
     }
   ],
-  "workspaces": [
-    {
-      "name": "workspace-cli",
-      "url": "https://github.com/EthanThatOneKid/vivary-workspace.git"
-    }
-  ]
+  "workspaces": []
 }
