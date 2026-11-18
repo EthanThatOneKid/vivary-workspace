@@ -4,7 +4,6 @@
   "repositories": [
     "vivary",
     ".github",
-    "vivary-workbench-handoff",
-    "vivary-new"
+    "vivary-workbench-handoff"
   ]
 }
